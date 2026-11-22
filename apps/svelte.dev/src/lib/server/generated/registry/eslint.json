@@ -4,10 +4,10 @@
 	"repo_url": "https://github.com/eslint/eslint",
 	"authors": ["openjsfoundation", "eslintbot"],
 	"homepage": "https://eslint.org",
-	"version": "9.39.0",
-	"downloads": 67576397,
+	"version": "10.15.0",
+	"downloads": 216652348,
 	"github_stars": 26622,
-	"updated": "2025-10-31T20:30:15.827Z",
+	"updated": "2026-11-13T21:33:34.115Z",
 	"typescript": true,
 	"runes": false,
 	"last_rune_check_version": "9.35.0"
